@@ -1,2 +1,0 @@
-# tictac
-python tictactoe game
