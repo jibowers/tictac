@@ -76,11 +76,11 @@ def marker(tiledict, player, loc): #tiledict is dictionary, player and loc are s
 	
 def displayer(tiledict):
 	print ("-------------")
-	print ("|", tiledict['1a'], "|", tiledict['1b'], "|", tiledict['1c'], "|")
+	print "|", tiledict['1a'], "|", tiledict['1b'], "|", tiledict['1c'], "|"
 	print ("-------------")
-	print ("|", tiledict['2a'], "|", tiledict['2b'], "|", tiledict['2c'], "|")
+	print "|", tiledict['2a'], "|", tiledict['2b'], "|", tiledict['2c'], "|"
 	print ("-------------")
-	print ("|", tiledict['3a'], "|", tiledict['3b'], "|", tiledict['3c'], "|")
+	print "|", tiledict['3a'], "|", tiledict['3b'], "|", tiledict['3c'], "|"
 	print ("-------------")
 
 def starter_display():
